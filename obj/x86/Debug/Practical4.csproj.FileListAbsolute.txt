@@ -1,0 +1,24 @@
+E:\Study\SEM4\GUI Programming\Project\Crackers management system\Visual Studio\Practical4\Practical4\obj\x86\Debug\Practical4.greeting.resources
+E:\Study\SEM4\GUI Programming\Project\Crackers management system\Visual Studio\Practical4\Practical4\obj\x86\Debug\Practical4.Properties.Resources.resources
+E:\Study\SEM4\GUI Programming\Project\Crackers management system\Visual Studio\Practical4\Practical4\obj\x86\Debug\Practical4.csproj.GenerateResource.Cache
+E:\Study\SEM4\GUI Programming\Project\Crackers management system\Visual Studio\Practical4\Practical4\bin\Debug\Practical4.exe
+E:\Study\SEM4\GUI Programming\Project\Crackers management system\Visual Studio\Practical4\Practical4\bin\Debug\Practical4.pdb
+E:\Study\SEM4\GUI Programming\Project\Crackers management system\Visual Studio\Practical4\Practical4\obj\x86\Debug\Practical4.exe
+E:\Study\SEM4\GUI Programming\Project\Crackers management system\Visual Studio\Practical4\Practical4\obj\x86\Debug\Practical4.pdb
+E:\Study\SEM4\GUI Programming\Project\Crackers management system\Visual Studio\Practical4\Practical4\obj\x86\Debug\Practical4.Notepad.resources
+E:\Study\SEM4\GUI Programming\Project\Crackers management system\Visual Studio\Practical4\Practical4\obj\x86\Debug\Practical4.csprojResolveAssemblyReference.cache
+E:\Study\SEM4\GUI Programming\Project\Crackers management system\Visual Studio\Practical4\Practical4\obj\x86\Debug\Practical4.TreeViewUniversity.resources
+E:\Study\SEM4\GUI Programming\Project\Crackers management system\Visual Studio\Practical4\Practical4\obj\x86\Debug\Practical4.TextEditor.resources
+E:\Study\SEM4\GUI Programming\Project\Crackers management system\Visual Studio\Practical4\Practical4\obj\x86\Debug\Practical4.EmployeeList.resources
+E:\Study\SEM4\GUI Programming\Visual Studio\Practical4\Practical4\obj\x86\Debug\Practical4.exe
+E:\Study\SEM4\GUI Programming\Visual Studio\Practical4\Practical4\obj\x86\Debug\Practical4.pdb
+E:\Study\SEM4\GUI Programming\Visual Studio\Practical4\Practical4\bin\Debug\Practical4.exe
+E:\Study\SEM4\GUI Programming\Visual Studio\Practical4\Practical4\bin\Debug\Practical4.pdb
+E:\Study\SEM4\GUI Programming\Visual Studio\Practical4\Practical4\obj\x86\Debug\Practical4.csprojResolveAssemblyReference.cache
+E:\Study\SEM4\GUI Programming\Visual Studio\Practical4\Practical4\obj\x86\Debug\Practical4.EmployeeList.resources
+E:\Study\SEM4\GUI Programming\Visual Studio\Practical4\Practical4\obj\x86\Debug\Practical4.greeting.resources
+E:\Study\SEM4\GUI Programming\Visual Studio\Practical4\Practical4\obj\x86\Debug\Practical4.Notepad.resources
+E:\Study\SEM4\GUI Programming\Visual Studio\Practical4\Practical4\obj\x86\Debug\Practical4.Properties.Resources.resources
+E:\Study\SEM4\GUI Programming\Visual Studio\Practical4\Practical4\obj\x86\Debug\Practical4.TextEditor.resources
+E:\Study\SEM4\GUI Programming\Visual Studio\Practical4\Practical4\obj\x86\Debug\Practical4.TreeViewUniversity.resources
+E:\Study\SEM4\GUI Programming\Visual Studio\Practical4\Practical4\obj\x86\Debug\Practical4.csproj.GenerateResource.Cache
